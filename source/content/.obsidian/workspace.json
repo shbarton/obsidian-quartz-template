@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Some note - edited by me.md",
+                "file": "category-folder/Some note.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note - edited by me.md",
+                "file": "category-folder/Some note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note - edited by me.md",
+                "file": "category-folder/Some note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note - edited by me.md"
+                "file": "category-folder/Some note.md"
               }
             }
           }
@@ -163,7 +163,7 @@
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
     "category-folder/index.md",
-    "category-folder/Some note - edited by me.md",
+    "category-folder/Some note.md",
     "index.md",
     "category-folder"
   ]
