@@ -1,5 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: My GitHub Pages Notebook! how bout that
 ---
 
 Hello world!
@@ -11,4 +11,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
 
-Now testing in obsidian. 
+Now testing in obsidian. working? 
